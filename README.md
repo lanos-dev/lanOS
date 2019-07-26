@@ -8,7 +8,7 @@ Being diskless means that hard drive reliability for every system is no longer a
 
 Built with simplicity in mind, lanOS is managed by a Windows Admin Center extension powered by modern web technologies such as Angular and HTML5. Its easy-to-use web interface means that there is no need to hire additional staff to manage lanOS. Everything is meticulously labeled and rigorously documented such that getting started with lanOS is as painless as possible.
 
-A more detailed overview is available in [lanOS Overview.pdf](lanOS Overview.pdf)
+A more detailed overview is available in [lanOS Overview.pdf](lanOS%20Overview.pdf)
 
 ## System Requirements
 
