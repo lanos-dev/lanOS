@@ -1,5 +1,9 @@
 ![lanOS - Diskless computer deployment and management](lanOS-banner.png)
 
+[**lanOS-panel**](https://github.com/lanOS-dev/lanOS-panel) - the Windows Admin Center Extension
+
+[**lanOS-powershell**](https://github.com/lanOS-dev/lanOS-powershell) - the Powershell scripts that set up and manage the lanOS host and image and target configuration
+
 ---
 
 Desktop deployment is time-consuming and costly. With lanOS, computers in public environments such as computer labs no longer need to be provisioned and managed individually. lanOS can assign a single virtual disk to multiple targets and all modifications to files, installed programs and registry keys will be discarded at shutdown or reboot, effectively rendering the system read-only and secure to all modifications.
